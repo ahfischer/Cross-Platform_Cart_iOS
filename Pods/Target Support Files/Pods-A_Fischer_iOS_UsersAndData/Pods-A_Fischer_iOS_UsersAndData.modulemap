@@ -1,0 +1,6 @@
+framework module Pods_A_Fischer_iOS_UsersAndData {
+  umbrella header "Pods-A_Fischer_iOS_UsersAndData-umbrella.h"
+
+  export *
+  module * { export * }
+}
